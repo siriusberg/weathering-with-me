@@ -39,13 +39,13 @@ The Weather App is a React-based web application that allows users to search for
 5. Open your web browser and go to `http://localhost:3000` to use the app.
 
 ## 🛠 API Configuration 
-  ### OpenWeatherMap API
+  #### OpenWeatherMap API
   To use  the OpenWeatherMap API, follow these steps:
   1. Visit [OpenWeatherMap](https://openweathermap.org/) and create an account.
   2. Generate an API key from your account settings.
   3. Replace `WEATHER_API_KEY` in `src/components/api.js` with your API key.
 
-  ### GeoDB Cities API
+  #### GeoDB Cities API
   To use the GeoDB Cities API from RapidAPI, follow these steps:
   1. Register for an account on [RapidAPI](https://rapidapi.com).
   2. Subscribe to the [GeoDB Cities API](https://rapidapi.com/wirefreethought/api/geodb-cities).
